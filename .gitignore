@@ -1,0 +1,30 @@
+# Credentials and sensitive files
+credentials.json
+token.pkl
+
+# Downloaded PDFs folder
+downloaded_final_leo/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
